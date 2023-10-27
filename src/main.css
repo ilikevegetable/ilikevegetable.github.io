@@ -279,7 +279,7 @@ hr {
 .publication-section {
     height: auto;
     font-size: 16px;
-    background: #ffffff;
+    background: #f7f7f7;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
@@ -298,7 +298,7 @@ hr {
 .education-section {
     height: auto;
     font-size: 18px;
-    background: #f7f7f7;
+    background: #ffffff;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
@@ -334,7 +334,7 @@ hr {
 .work_experience_section {
     height: auto;
     font-size: 18px;
-    background: #ffffff;
+    background: #f7f7f7;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
