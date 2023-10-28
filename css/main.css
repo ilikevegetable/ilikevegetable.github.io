@@ -245,7 +245,7 @@ hr {
 
 
 #home { 
-    background: url(./background.jpg) no-repeat fixed center;
+    background: url(../img/background.jpg) no-repeat fixed center;
     height: auto;
     width: 100%; 
     margin: 0 0; 
