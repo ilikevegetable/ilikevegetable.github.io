@@ -196,6 +196,12 @@ hr {
   color: #00337D;
 }
 
+.proj_name{
+  font-size: 18px;
+  font-weight: bold;
+  color: #00337D;
+}
+
 .author{
   font-size: 16px !important;
   margin: 5px auto 0px;
@@ -285,14 +291,14 @@ hr {
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
 }
 
-.project-section {
-    height: auto;
-    font-size: 16px;
-    background: #f7f7f7;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
-}
+/*.project-section {*/
+/*    height: auto;*/
+/*    font-size: 16px;*/
+/*    background: #f7f7f7;*/
+/*    padding-top: 40px;*/
+/*    padding-bottom: 40px;*/
+/*    font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;*/
+/*}*/
 
 
 .education-section {
@@ -304,6 +310,23 @@ hr {
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
 }
 
+.research-section {
+    height: auto;
+    font-size: 18px;
+    background: #ffffff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+}
+
+.project-section {
+    height: auto;
+    font-size: 16px;
+    background: #f7f7f7;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+}
 
 .activity-section {
     height: auto;
