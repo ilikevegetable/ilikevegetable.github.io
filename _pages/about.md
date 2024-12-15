@@ -32,11 +32,14 @@ My research interests primarily include `Machine Learning and Data Mining`, with
 
 [MBrain: A Multi-channel Self-Supervised Learning Framework for Brain Signals](https://dl.acm.org/doi/pdf/10.1145/3580305.3599426)
 
-**Donghong Cai**, Junru Chen, Yang Yang, Teng Liu, Yafeng Li
+**Donghong Cai**, [Junru Chen](https://mrnobodycali.github.io/), [Yang Yang](http://yangy.org/), Teng Liu, Yafeng Li
+
+[code ![](https://img.shields.io/github/stars/yzz673/Brant-2?style=social)](https://github.com/ilikevegetable/MBrain)\\
 
 [//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
-- The first work to design a generalized self-supervised learning framework, which can be applied to pre-train both EEG and SEEG signals.
-- **Code and Data Statement:** Due to the requirements of the partner company, unable to be open sourced now.
+The first work to design a generalized self-supervised learning framework, which can be applied to pre-train both EEG and SEEG signals.
+
+[//]: # (- **Code and Data Statement:** Due to the requirements of the partner company, unable to be open sourced now.)
 </div>
 </div>
 
