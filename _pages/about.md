@@ -34,10 +34,9 @@ My research interests primarily include `Machine Learning and Data Mining`, with
 
 **Donghong Cai**, [Junru Chen](https://mrnobodycali.github.io/), [Yang Yang](http://yangy.org/), Teng Liu, Yafeng Li
 
-[code ![](https://img.shields.io/github/stars/yzz673/Brant-2?style=social)](https://github.com/ilikevegetable/MBrain)\\
+[code ![](https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social)](https://github.com/ilikevegetable/MBrain)
 
-[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
-The first work to design a generalized self-supervised learning framework, which can be applied to pre-train both EEG and SEEG signals.
+MBrain is the first generalized self-supervised learning framework, which can be applied to pre-train both EEG and SEEG signals.
 
 [//]: # (- **Code and Data Statement:** Due to the requirements of the partner company, unable to be open sourced now.)
 </div>
