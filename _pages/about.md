@@ -23,6 +23,7 @@ My research interests primarily include `Machine Learning and Data Mining`, with
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🧑‍💻🧑‍💻 After reaching an agreement with our cooperated hospital and company, we have finally open-sourced the code for MBrain. Check the code [here ![](https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social)](https://github.com/ilikevegetable/MBrain).
 - *2024.08*: &nbsp;✨✨ I started pursuing my PhD Degree in WashU.
 
 # 📝 Publications 
