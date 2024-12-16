@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a PhD student at `Washington University in St. Louis` majoring in Computer Science. I earned my master's degree at `Zhejiang University`, luckily advised by Prof. [**Yang Yang**](http://yangy.org/), and my bachelor's degree from Huazhong University of Science and Technology. I also worked as a full-time Machine Learning Engineer at Alibaba for over a year.
+Hello! I am a first year PhD student at `Washington University in St. Louis` majoring in Computer Science. I'm fortunately advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/). I earned my master's degree at `Zhejiang University`, luckily advised by Prof. [**Yang Yang**](http://yangy.org/), and my bachelor's degree from Huazhong University of Science and Technology. I also worked as a full-time Machine Learning Engineer at Alibaba for over a year.
 
 My research interests primarily include `Machine Learning and Data Mining`, with a particular focus on time series and graph, and it's applications in healthcare, social media, etc. During my tenure with Alibaba, I also developed keen interests in `LLMs and Foundation Models (in time series and graph)`.
 
@@ -63,6 +63,6 @@ MBrain is the first generalized self-supervised learning framework, which can be
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships and Professional Experiences
-- *2023.04 - 2024.07*, Machine Learning Engineer (called Algorithm Engineer in China), Alibaba, China.
+- *2023.04 - 2024.07*, Machine Learning Engineer, Alibaba, China.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Filikevegetable.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
