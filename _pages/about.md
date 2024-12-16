@@ -23,7 +23,7 @@ My research interests primarily include `Machine Learning and Data Mining`, with
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🧑‍💻🧑‍💻 After reaching an agreement with our cooperated hospital and company, we have finally open-sourced the code for MBrain. Check the code [here ![](https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social)](https://github.com/ilikevegetable/MBrain).
+- *2024.12*: &nbsp;🧑‍💻🧑‍💻 After reaching an agreement with our cooperated hospital and company, we can finally open-sourced the code for MBrain. Check the code [here ![](https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social)](https://github.com/ilikevegetable/MBrain).
 - *2024.08*: &nbsp;✨✨ I started pursuing my PhD Degree in WashU.
 
 # 📝 Publications 
@@ -51,7 +51,7 @@ MBrain is the first generalized self-supervised learning framework, which can be
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
-- *2024.08 - present*, PhD, Washington University in St. Louis, STL.
+- *2024.08 - present*, PhD, Washington University in St. Louis, Saint Louis.
 - *2020.09 - 2023.03*, Master, Zhejiang University, Hangzhou.
 - *2016.09 - 2020.06*, Undergraduate, Huazhong University of Science and Technology, Wuhan.
 
@@ -63,6 +63,6 @@ MBrain is the first generalized self-supervised learning framework, which can be
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships and Professional Experiences
-- *2023.04 - 2024.07*, Alibaba, China.
+- *2023.04 - 2024.07*, Machine Learning Engineer (called Algorithm Engineer in China), Alibaba, China.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Filikevegetable.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
