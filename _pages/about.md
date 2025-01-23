@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a first year PhD student at `Washington University in St. Louis` majoring in Computer Science. I'm fortunately advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/). I earned my master's degree at `Zhejiang University`, luckily advised by Prof. [**Yang Yang**](http://yangy.org/), and my bachelor's degree from Huazhong University of Science and Technology. I also worked as a full-time Machine Learning Engineer at Alibaba for over a year.
+Hello! I am a first year PhD student at `Washington University in St. Louis` majoring in Computer Science. I'm fortunately advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/). I earned my master's degree at `Zhejiang University`, fortunately advised by Prof. [**Yang Yang**](http://yangy.org/), and my bachelor's degree from Huazhong University of Science and Technology. I also worked as a full-time Machine Learning Engineer at Alibaba for over a year.
 
 My research interests primarily include `Machine Learning and Data Mining`, with a particular focus on time series and graph, and it's applications in healthcare, social media, etc. During my tenure with Alibaba, I also developed keen interests in `LLMs and Foundation Models (in time series and graph)`.
 
