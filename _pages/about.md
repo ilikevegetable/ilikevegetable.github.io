@@ -65,4 +65,6 @@ MBrain is the first generalized self-supervised learning framework, which can be
 # 💻 Internships and Professional Experiences
 - *2023.04 - 2024.07*, Machine Learning Engineer, Alibaba, China.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Filikevegetable.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=wLI1v9LBMSlN_Rc9WDhI7ScSKU8xmJYfxpZyDfv1SHQ&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+
+[//]: # ([![Hits]&#40;https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Filikevegetable.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false&#41;]&#40;https://hits.seeyoufarm.com&#41;)
