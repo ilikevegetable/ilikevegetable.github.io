@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am a first year PhD student at Washington University in St. Louis majoring in Computer Science. I'm fortunately advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/). Prior to this, I earned my master's degree at Zhejiang University, fortunately advised by Prof. [**Yang Yang**](http://yangy.org/), and my bachelor's degree at Huazhong University of Science and Technology.
 
-My research interests primarily include `Machine Learning and Data Mining`, with a particular focus on time series and graph, and it's applications in healthcare, social media, etc. During my tenure in Alibaba, I also developed interests in `LLMs and Foundation Models (in time series and graph)`.
+My research interests primarily include Machine Learning and Data Mining, with a particular focus on time series and graph, and it's applications in healthcare, social media, etc. During my tenure in Alibaba, I also developed interests in LLMs and Foundation Models (in time series and graph).
 
 # 🔥 News
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 After reaching an agreement with cooperated hospital and company, we can finally public the code for MBrain. Check the code [here ![](https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social)](https://github.com/ilikevegetable/MBrain).
@@ -62,7 +62,6 @@ MBrain is the first generalized self-supervised learning framework, which can be
 
 # 💻 Internships and Professional Experiences
 - *2023.04 - 2024.07*, Machine Learning Engineer, Alibaba, China.
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=wLI1v9LBMSlN_Rc9WDhI7ScSKU8xmJYfxpZyDfv1SHQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=wLI1v9LBMSlN_Rc9WDhI7ScSKU8xmJYfxpZyDfv1SHQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
 [//]: # ([![Hits]&#40;https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Filikevegetable.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false&#41;]&#40;https://hits.seeyoufarm.com&#41;)
