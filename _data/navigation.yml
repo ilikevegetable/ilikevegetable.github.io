@@ -20,3 +20,7 @@ main:
 
   - title: "Internships"
     url: "/#-internships-and-professional-experiences"
+
+  - title: "CV"
+    url: /docs/CV.pdf
+    target: "_blank"
