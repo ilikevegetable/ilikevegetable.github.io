@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a first year PhD student at Washington University in St. Louis majoring in Computer Science. I'm fortunately advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/). Prior to this, I earned my master's degree at Zhejiang University, fortunately advised by Prof. [**Yang Yang**](http://yangy.org/), and my bachelor's degree at Huazhong University of Science and Technology.
+Hello! I am a second year PhD student at Washington University in St. Louis majoring in Computer Science. I'm fortunately advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/). Prior to this, I earned my master's degree at Zhejiang University, fortunately advised by Prof. [**Yang Yang**](http://yangy.org/), and my bachelor's degree at Huazhong University of Science and Technology.
 
-My research interests primarily include Machine Learning and Data Mining, with a particular focus on time series and graph, and it's applications in healthcare, social media, etc. During my tenure in Alibaba, I also developed interests in LLMs and Foundation Models (in time series and graph).
+My research interests primarily include Machine Learning and Data Mining, with a particular focus on time series and graph. During my time in Alibaba, I also developed interests in LLMs, Graph Foundation Models and their integration.
 
 # 🔥 News
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 After reaching an agreement with cooperated hospital and company, we can finally public the code for MBrain. Check the code [here ![](https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social)](https://github.com/ilikevegetable/MBrain).
