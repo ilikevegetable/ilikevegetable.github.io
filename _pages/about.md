@@ -84,7 +84,7 @@ GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, 
 - *2016.09 - 2020.06*, Bachelor's, Software Engineering, Huazhong University of Science and Technology, Wuhan, China.
 
 # 💻 Internships and Industry Experiences
-- *2023.04 - 2024.07*, Machine Learning Engineer, Alibaba, Shenzhen, China.
+- *2023.04 - 2024.07*, Machine Learning Engineer, Alibaba Group, Shenzhen, China.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=wLI1v9LBMSlN_Rc9WDhI7ScSKU8xmJYfxpZyDfv1SHQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
