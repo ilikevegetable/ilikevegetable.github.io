@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Donghong Cai (蔡东鸿) - Homepage"
+title                    : "Donghong Cai - Homepage"
 description              : "Focusing on Graph Learning and Large Language Models."
 repository               : "ilikevegetable/ilikevegetable.github.io"
 google_scholar_stats_use_cdn : true
