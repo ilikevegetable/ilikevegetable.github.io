@@ -53,7 +53,7 @@ MBrain is the first generalized self-supervised learning framework, which can be
 
 [code ![](https://img.shields.io/github/stars/ilikevegetable/TabDLM?style=social)](https://github.com/ilikevegetable/TabDLM)
 
-TabDLM is a Unified numerical-language diffusion framework for generating tabular data with both numerical, categorical and free-form text features.
+TabDLM is a unified numerical-language diffusion framework for generating tabular data with both numerical, categorical and free-form text features.
 </div>
 </div>
 
