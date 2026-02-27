@@ -22,7 +22,7 @@ Hello! I am a second-year PhD student in Computer Science at Washington Universi
 My research interests lie primarily in Graph Learning and Large Language Models, and their applications in Relational Database and healthcare.
 
 # 🔥 News
-- *2026.02*: &nbsp;🔥🔥 [TabDLM](https://arxiv.org/pdf/2602.22586) released, we proposed a unified numerical-language diffusion framework for generating high-fidelity tabular data with numerical, categorical and free-form text features.
+- *2026.02*: &nbsp;🔥🔥 [TabDLM](https://arxiv.org/abs/2602.22586) released, we proposed a unified numerical-language diffusion framework for generating high-fidelity tabular data with numerical, categorical and free-form text features.
 - *2025.11*: &nbsp;🔥🔥 [GRIP](https://arxiv.org/abs/2511.07457) released, GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, enabling efficient and context-free reasoning over large-scale text-attributed graphs.
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Following an agreement with our collaborating hospital and industry partners, we are pleased to make the MBrain code publicly available. The repository can be found [here](https://github.com/ilikevegetable/MBrain).
 - *2024.08*: &nbsp;✨✨ I started my PhD at Washington University in St. Louis (WashU).
@@ -61,7 +61,7 @@ TabDLM is a unified numerical-language diffusion framework for generating tabula
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/grip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GRIP: In-Parameter Graph Reasoning through Fine-Tuning Large Language Models](https://arxiv.org/abs/2511.07457)
+[GRIP: In-Parameter Graph Reasoning through Fine-Tuning Large Language Models](https://arxiv.org/pdf/2511.07457)
 
 [Jiarui Feng](https://jiaruifeng.github.io/), **Donghong Cai**, [Yixin Chen](https://www.cse.wustl.edu/~yixin.chen/), [Muhan Zhang](https://muhanzhang.github.io/)
 
