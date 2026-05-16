@@ -22,6 +22,7 @@ Hello! I am a second-year PhD student in Computer Science at Washington Universi
 My research interests lie primarily in Graph Learning and Large Language Models, and their applications in Relational Database and healthcare.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 [GRIP](https://arxiv.org/abs/2511.07457) is accepted by KDD 2026!
 - *2026.02*: &nbsp;🔥🔥 [TabDLM](https://arxiv.org/abs/2602.22586) released, we proposed a unified numerical-language diffusion framework for generating high-fidelity tabular data with numerical, categorical and free-form text features.
 - *2025.11*: &nbsp;🔥🔥 [GRIP](https://arxiv.org/abs/2511.07457) released, GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, enabling efficient and context-free reasoning over large-scale text-attributed graphs.
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Following an agreement with our collaborating hospital and industry partners, we are pleased to make the MBrain code publicly available. The repository can be found [here](https://github.com/ilikevegetable/MBrain).
@@ -43,6 +44,20 @@ MBrain is the first generalized self-supervised learning framework, which can be
 </div>
 </div>
 
+[//]: # (published-paper-2: grip)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/papers/grip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GRIP: In-Parameter Graph Reasoning through Fine-Tuning Large Language Models](https://arxiv.org/pdf/2511.07457)
+
+[Jiarui Feng](https://jiaruifeng.github.io/), **Donghong Cai**, [Yixin Chen](https://www.cse.wustl.edu/~yixin.chen/), [Muhan Zhang](https://muhanzhang.github.io/)
+
+[//]: # ([code ![]&#40;https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social&#41;]&#40;https://github.com/ilikevegetable/MBrain&#41;)
+
+GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, enabling efficient and context-free inference over text-attributed graphs.
+</div>
+</div>
+
 [//]: # (preprint-paper-2: tabdlm)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/tabdlm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,21 +71,6 @@ MBrain is the first generalized self-supervised learning framework, which can be
 TabDLM is a unified numerical-language diffusion framework for generating tabular data with both numerical, categorical and free-form text features.
 </div>
 </div>
-
-[//]: # (preprint-paper-1: grip)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/grip.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GRIP: In-Parameter Graph Reasoning through Fine-Tuning Large Language Models](https://arxiv.org/pdf/2511.07457)
-
-[Jiarui Feng](https://jiaruifeng.github.io/), **Donghong Cai**, [Yixin Chen](https://www.cse.wustl.edu/~yixin.chen/), [Muhan Zhang](https://muhanzhang.github.io/)
-
-[//]: # ([code ![]&#40;https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social&#41;]&#40;https://github.com/ilikevegetable/MBrain&#41;)
-
-GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, enabling efficient and context-free inference over text-attributed graphs.
-</div>
-</div>
-
 
 [//]: # (# 🎖 Honors and Awards)
 
