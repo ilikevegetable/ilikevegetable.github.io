@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a second-year PhD student in Computer Science at Washington University in St. Louis. I'm fortunate to be advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/) and to work closely with Prof. [**Muhan Zhang**](https://muhanzhang.github.io/) at Peking University. Previously, I received my master's degree from Zhejiang University, where I was advised by Prof. [**Yang Yang**](http://yangy.org/), and my bachelor's degree from Huazhong University of Science and Technology.
+Hello! I am a third-year PhD student in Computer Science at Washington University in St. Louis. I'm fortunate to be advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/) and to work closely with Prof. [**Muhan Zhang**](https://muhanzhang.github.io/) at Peking University. Previously, I received my master's degree from Zhejiang University, where I was advised by Prof. [**Yang Yang**](http://yangy.org/).
 
-My research interests lie primarily in Graph Learning and Large Language Models, and their applications in Relational Database and healthcare.
+My research interests lie primarily in Large Language Models and Graph Learning, and their applications in Relational Database and healthcare.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 [LoPE](https://arxiv.org/abs/2605.05566) is accepted by EMNLP 2026!
 - *2026.05*: &nbsp;🎉🎉 [GRIP](https://arxiv.org/abs/2511.07457) is accepted by KDD 2026!
 - *2026.02*: &nbsp;🔥🔥 [TabDLM](https://arxiv.org/abs/2602.22586) released, we proposed a unified numerical-language diffusion framework for generating high-fidelity tabular data with numerical, categorical and free-form text features.
 - *2025.11*: &nbsp;🔥🔥 [GRIP](https://arxiv.org/abs/2511.07457) released, GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, enabling efficient and context-free reasoning over large-scale text-attributed graphs.
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Following an agreement with our collaborating hospital and industry partners, we are pleased to make the MBrain code publicly available. The repository can be found [here](https://github.com/ilikevegetable/MBrain).
 - *2024.08*: &nbsp;✨✨ I started my PhD at Washington University in St. Louis (WashU).
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 [//]: # (published-paper-1: MBrain)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/papers/mbrain.png' alt="sym" width="100%"></div></div>
@@ -52,7 +53,7 @@ MBrain is the first generalized self-supervised learning framework, which can be
 
 [Jiarui Feng](https://jiaruifeng.github.io/), **Donghong Cai**, [Yixin Chen](https://www.cse.wustl.edu/~yixin.chen/), [Muhan Zhang](https://muhanzhang.github.io/)
 
-[//]: # ([code ![]&#40;https://img.shields.io/github/stars/ilikevegetable/MBrain?style=social&#41;]&#40;https://github.com/ilikevegetable/MBrain&#41;)
+[code ![](https://img.shields.io/github/stars/JiaruiFeng/GRIP?style=social)](https://github.com/JiaruiFeng/GRIP)
 
 GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, enabling efficient and context-free inference over text-attributed graphs.
 </div>

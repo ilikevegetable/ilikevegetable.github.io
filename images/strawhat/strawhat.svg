@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="11 38 490 490">
+  <!-- brim -->
+  <ellipse cx="256" cy="322" rx="226" ry="96" fill="#F6C646" stroke="#2F3437" stroke-width="22"/>
+  <!-- shadow on the brim around the crown -->
+  <ellipse cx="256" cy="312" rx="152" ry="54" fill="#DDA42C"/>
+  <!-- crown -->
+  <path d="M142,316 C142,204 186,148 256,148 C326,148 370,204 370,316 A114,32 0 0 1 142,316 Z"
+        fill="#FFD95A" stroke="#2F3437" stroke-width="22" stroke-linejoin="round"/>
+  <!-- red band -->
+  <path d="M144,262 A112,30 0 0 0 368,262 L370,316 A114,32 0 0 1 142,316 Z"
+        fill="#E53935" stroke="#2F3437" stroke-width="22" stroke-linejoin="round"/>
+  <!-- highlight -->
+  <path d="M186,228 C194,196 218,178 248,175" fill="none" stroke="#FFF3C4" stroke-width="18" stroke-linecap="round"/>
+</svg>

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Donghong Cai - Homepage"
-description              : "Focusing on Graph Learning and Large Language Models."
+description              : "Focusing on Large Language Models and Graph Learning."
 repository               : "ilikevegetable/ilikevegetable.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Donghong Cai <br> (蔡东鸿)"
   avatar           : "images/img/profile_my.jpg"
-  bio              : "Second-year PhD student at Washington University in St. Louis."
+  bio              : "Third-year PhD student at Washington University in St. Louis."
   location         : St. Louis, MO
   employer         :
   pubmed           : 
