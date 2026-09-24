@@ -84,11 +84,11 @@ TabDLM is a unified numerical-language diffusion framework for generating tabula
 
 [Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration](https://arxiv.org/pdf/2605.05566)
 
-[Langlin Huang](https://shrango.github.io/), [Chengsong Huang](https://chengsong-huang.github.io/), [Jinyuan Li](https://sites.google.com/view/jinyuanli), **Donghong Cai**, Yuyi Yang, [Jiaxin Huang](https://teapot123.github.io/)
+[Langlin Huang](https://shrango.github.io/), [Chengsong Huang](https://chengsong-huang.github.io/), [Jinyuan Li](https://sites.google.com/view/jinyuanli), **Donghong Cai**, [Yuyi Yang](https://yyuyi.github.io/), [Jiaxin Huang](https://teapot123.github.io/)
 
 [code ![](https://img.shields.io/github/stars/shrango/LoPE?style=social)](https://github.com/shrango/LoPE)
 
-LoPE is a simple training framework that prepends random Lorem Ipsum text to prompts when all rollouts fail, broadening reasoning exploration in LLM reinforcement learning.
+LoPE is a simple yet effective training framework that prepends random Lorem Ipsum text to prompts when all rollouts fail, broadening reasoning exploration in LLM reinforcement learning.
 </div>
 </div>
 
