@@ -22,12 +22,17 @@ Hello! I am a third-year PhD student in Computer Science at Washington Universit
 My research interests lie primarily in Large Language Models and Graph Learning, and their applications in Relational Database and healthcare.
 
 # 🔥 News
+<div class='news-scroll' markdown="1">
+
+- *2026.09*: &nbsp;🎉🎉 [TabDLM](https://arxiv.org/abs/2602.22586) is accepted by NeurIPS 2026!
 - *2026.08*: &nbsp;🎉🎉 [LoPE](https://arxiv.org/abs/2605.05566) is accepted by EMNLP 2026!
 - *2026.05*: &nbsp;🎉🎉 [GRIP](https://arxiv.org/abs/2511.07457) is accepted by KDD 2026!
 - *2026.02*: &nbsp;🔥🔥 [TabDLM](https://arxiv.org/abs/2602.22586) released, we proposed a unified numerical-language diffusion framework for generating high-fidelity tabular data with numerical, categorical and free-form text features.
 - *2025.11*: &nbsp;🔥🔥 [GRIP](https://arxiv.org/abs/2511.07457) released, GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, enabling efficient and context-free reasoning over large-scale text-attributed graphs.
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Following an agreement with our collaborating hospital and industry partners, we are pleased to make the MBrain code publicly available. The repository can be found [here](https://github.com/ilikevegetable/MBrain).
 - *2024.08*: &nbsp;✨✨ I started my PhD at Washington University in St. Louis (WashU).
+
+</div>
 
 # 📝 Selected Publications 
 
@@ -59,8 +64,8 @@ GRIP is a parameter-efficient framework that injects graph knowledge into LLMs, 
 </div>
 </div>
 
-[//]: # (preprint-paper-2: tabdlm)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/tabdlm.png' alt="sym" width="100%"></div></div>
+[//]: # (published-paper-3: tabdlm)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/tabdlm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion](https://arxiv.org/pdf/2602.22586)

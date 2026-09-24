@@ -107,3 +107,28 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// News: a fixed box about five lines tall (1.5em lines, 0.5em between items); older news scrolls
+.news-scroll {
+    max-height: 9.5em;
+    overflow-y: auto;
+    margin: 0.5em 0 1em;
+    padding-right: 0.5em;
+
+    ul {
+        margin: 0;
+    }
+
+    // macOS hides scrollbars until you scroll, so draw a thin one that stays visible
+    &::-webkit-scrollbar {
+        width: 6px;
+    }
+    &::-webkit-scrollbar-track {
+        background: #f2f2f2;
+        border-radius: 3px;
+    }
+    &::-webkit-scrollbar-thumb {
+        background: #c8c8c8;
+        border-radius: 3px;
+    }
+}
