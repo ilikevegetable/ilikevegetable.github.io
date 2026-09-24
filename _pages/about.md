@@ -78,6 +78,20 @@ TabDLM is a unified numerical-language diffusion framework for generating tabula
 </div>
 </div>
 
+[//]: # (published-paper-4: lope)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/papers/lope.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration](https://arxiv.org/pdf/2605.05566)
+
+[Langlin Huang](https://shrango.github.io/), [Chengsong Huang](https://chengsong-huang.github.io/), [Jinyuan Li](https://sites.google.com/view/jinyuanli), **Donghong Cai**, Yuyi Yang, [Jiaxin Huang](https://teapot123.github.io/)
+
+[code ![](https://img.shields.io/github/stars/shrango/LoPE?style=social)](https://github.com/shrango/LoPE)
+
+LoPE is a simple training framework that prepends random Lorem Ipsum text to prompts when all rollouts fail, broadening reasoning exploration in LLM reinforcement learning.
+</div>
+</div>
+
 [//]: # (# 🎖 Honors and Awards)
 
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
