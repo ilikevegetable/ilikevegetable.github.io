@@ -1,0 +1,137 @@
+.latte-gallery-trigger {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.3em;
+  padding: 0.12em 0.55em;
+  border: 1px solid #d8b68e;
+  border-radius: 999px;
+  background: #fffaf4;
+  color: #7b4c20;
+  font: inherit;
+  font-size: 0.88em;
+  line-height: 1.45;
+  cursor: pointer;
+  vertical-align: baseline;
+
+  &:hover,
+  &:focus-visible {
+    background: #f7eadb;
+    border-color: #b8824e;
+  }
+}
+
+.latte-gallery[hidden] {
+  display: none;
+}
+
+.latte-gallery {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: grid;
+  place-items: center;
+  padding: 4rem 4.5rem 2rem;
+}
+
+.latte-gallery__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(13, 17, 22, 0.78);
+}
+
+.latte-gallery__viewer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  width: min(100%, 1000px);
+  max-height: 100%;
+}
+
+.latte-gallery__figure {
+  min-width: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.latte-gallery__image {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: calc(100vh - 8.5rem);
+  max-height: calc(100dvh - 8.5rem);
+  margin: auto;
+  border-radius: 4px;
+  box-shadow: 0 18px 55px rgba(0, 0, 0, 0.36);
+  object-fit: contain;
+}
+
+.latte-gallery__caption {
+  margin-top: 0.7rem;
+  color: #f5f2ef;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+}
+
+.latte-gallery__count {
+  margin-left: 0.45rem;
+  color: #c9c9c9;
+}
+
+.latte-gallery__close,
+.latte-gallery__arrow {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 50%;
+  background: rgba(25, 25, 25, 0.45);
+  color: #fff;
+  font-family: inherit;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1;
+  cursor: pointer;
+
+  &:hover,
+  &:focus-visible {
+    background: rgba(255, 255, 255, 0.22);
+  }
+}
+
+.latte-gallery__close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1;
+}
+
+.latte-gallery__arrow {
+  font-size: 2.5rem;
+  padding-bottom: 0.2rem;
+}
+
+@media (max-width: 700px) {
+  .latte-gallery {
+    padding: 4rem 0.75rem 4.5rem;
+  }
+
+  .latte-gallery__viewer {
+    gap: 0.35rem;
+  }
+
+  .latte-gallery__arrow {
+    width: 2.25rem;
+    height: 2.25rem;
+  }
+
+  .latte-gallery__image {
+    max-height: calc(100vh - 10rem);
+    max-height: calc(100dvh - 10rem);
+  }
+}

@@ -18,9 +18,12 @@ main:
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships-and-industry-experiences"
+  - title: "Work Experience"
+    url: "/#-work-experience"
 
-#  - title: "CV"
-#    url: /repos/cv.pdf
-#    target: "_blank"
+  - title: "Misc"
+    url: "/#-misc"
+
+  - title: "CV"
+    url: /repos/CV_DonghongCai_1014.pdf
+    target: "_blank"

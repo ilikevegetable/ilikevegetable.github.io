@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am a third-year PhD student in Computer Science at Washington University in St. Louis. I'm fortunate to be advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/) and to work closely with Prof. [**Muhan Zhang**](https://muhanzhang.github.io/) at Peking University. Previously, I received my master's degree from Zhejiang University, where I was advised by Prof. [**Yang Yang**](http://yangy.org/).
 
-My research interests lie primarily in Large Language Models and Graph Learning, and their applications in Relational Database and healthcare.
+> My research focuses on diffusion language models, structured data generation, and LLM reasoning, with a background in self-supervised learning. I am interested in LLM, Agentic AI, reinforcement learning, and self-improving AI systems, and am seeking **Spring or Summer 2027 Research Scientist Intern and Applied Scientist Intern** opportunities. [Find my CV here]({{ '/repos/CV_DonghongCai_1014.pdf' | relative_url }}).
 
 # 🔥 News
 <div class='news-scroll' markdown="1">
@@ -103,8 +103,27 @@ LoPE is a simple yet effective training framework that prepends random Lorem Ips
 - *2020.09 - 2023.03*, Master's, Software Engineering, Zhejiang University, Hangzhou, China.
 - *2016.09 - 2020.06*, Bachelor's, Software Engineering, Huazhong University of Science and Technology, Wuhan, China.
 
-# 💻 Internships and Industry Experiences
+# 💻 Work Experience
 - *2023.04 - 2024.07*, Machine Learning Engineer, Alibaba Group, Shenzhen, China.
+
+# ✨ Misc
+- I am from Shenzhen, China.
+- In my spare time, I play basketball and am learning photography.
+- I have a cat named Latte. <button class="latte-gallery-trigger" type="button" aria-haspopup="dialog" aria-controls="latte-gallery">🐾 View photos</button>
+
+<div class="latte-gallery" id="latte-gallery" role="dialog" aria-modal="true" aria-label="Photos of Latte" data-second-src="{{ '/images/latte/latte_napping.png' | relative_url }}" hidden>
+  <div class="latte-gallery__backdrop"></div>
+  <button class="latte-gallery__close" type="button" aria-label="Close photo gallery">&times;</button>
+  <div class="latte-gallery__viewer">
+    <button class="latte-gallery__arrow latte-gallery__arrow--prev" type="button" aria-label="Previous photo">&#8249;</button>
+    <figure class="latte-gallery__figure">
+      <img class="latte-gallery__image" src="{{ '/images/latte/latte_looking_up.png' | relative_url }}" alt="Latte looking up at the camera" width="1086" height="1448">
+      <figcaption class="latte-gallery__caption" aria-live="polite">Latte <span class="latte-gallery__count">1 / 2</span></figcaption>
+    </figure>
+    <button class="latte-gallery__arrow latte-gallery__arrow--next" type="button" aria-label="Next photo">&#8250;</button>
+  </div>
+</div>
+<script src="{{ '/assets/js/latte-gallery.js' | relative_url }}" defer></script>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=wLI1v9LBMSlN_Rc9WDhI7ScSKU8xmJYfxpZyDfv1SHQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
