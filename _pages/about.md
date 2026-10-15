@@ -123,7 +123,7 @@ LoPE is a simple yet effective training framework that prepends random Lorem Ips
     <button class="latte-gallery__arrow latte-gallery__arrow--next" type="button" aria-label="Next photo">&#8250;</button>
   </div>
 </div>
-<script src="{{ '/assets/js/latte-gallery.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/latte-gallery.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=wLI1v9LBMSlN_Rc9WDhI7ScSKU8xmJYfxpZyDfv1SHQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
