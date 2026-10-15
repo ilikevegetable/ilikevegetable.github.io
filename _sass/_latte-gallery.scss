@@ -2,21 +2,24 @@
   display: inline-flex;
   align-items: center;
   margin-left: 0.3em;
-  padding: 0.12em 0.55em;
-  border: 1px solid #d8b68e;
+  padding: 0.18em 0.7em;
+  border: 1px solid #bd784b;
   border-radius: 999px;
-  background: #fffaf4;
-  color: #7b4c20;
+  background: #f7d5b6;
+  color: #653819;
   font: inherit;
   font-size: 0.88em;
   line-height: 1.45;
+  box-shadow: 0 1px 3px rgba(103, 52, 21, 0.16);
+  -webkit-appearance: none;
+  appearance: none;
   cursor: pointer;
   vertical-align: baseline;
 
   &:hover,
   &:focus-visible {
-    background: #f7eadb;
-    border-color: #b8824e;
+    background: #efb987;
+    border-color: #a85d2e;
   }
 }
 
