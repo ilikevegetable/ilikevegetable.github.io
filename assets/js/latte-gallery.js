@@ -9,21 +9,31 @@
   var prevButton = gallery.querySelector('.latte-gallery__arrow--prev');
   var nextButton = gallery.querySelector('.latte-gallery__arrow--next');
   var backdrop = gallery.querySelector('.latte-gallery__backdrop');
-  var photos = [
-    { src: image.src, alt: 'Latte looking up at the camera' },
-    { src: gallery.getAttribute('data-second-src'), alt: 'Latte sleeping on a sofa' }
-  ];
+  var list = document.getElementById('latte-photos');
+  var photos = list ? JSON.parse(list.textContent) : [];
+  if (!photos.length) return;
   var index = 0;
   var previousOverflow = '';
 
   // Keep the overlay above the site's animated page and sticky navigation.
   document.body.appendChild(gallery);
 
+  function preload(nextIndex) {
+    var photo = photos[(nextIndex + photos.length) % photos.length];
+    new Image().src = photo.src;
+  }
+
   function showPhoto(nextIndex) {
     index = (nextIndex + photos.length) % photos.length;
-    image.src = photos[index].src;
-    image.alt = photos[index].alt;
+    var photo = photos[index];
+    image.src = photo.src;
+    image.alt = photo.alt;
+    // Keep width/height in step with the photo so the overlay doesn't jump while it loads.
+    image.width = photo.w;
+    image.height = photo.h;
     count.textContent = (index + 1) + ' / ' + photos.length;
+    preload(index + 1);
+    preload(index - 1);
   }
 
   function openGallery() {

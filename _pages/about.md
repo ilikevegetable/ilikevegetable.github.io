@@ -108,17 +108,27 @@ LoPE is a simple yet effective training framework that prepends random Lorem Ips
 
 # ✨ Misc
 - I am from Shenzhen, China.
-- In my spare time, I play basketball and am learning photography.
-- I have a cat named Latte. <button class="latte-gallery-trigger" type="button" aria-haspopup="dialog" aria-controls="latte-gallery">🐾 View photos</button>
+- In my spare time, I play basketball and enjoy photography.
+- I have a cat, her name is Latte! <button class="latte-gallery-trigger" type="button" aria-haspopup="dialog" aria-controls="latte-gallery">🐾 View photos</button>
 
-<div class="latte-gallery" id="latte-gallery" role="dialog" aria-modal="true" aria-label="Photos of Latte" data-second-src="{{ '/images/latte/latte_napping.png' | relative_url }}" hidden>
+<script type="application/json" id="latte-photos">
+[
+  {"src": "{{ '/images/latte/latte_looking_up.jpg' | relative_url }}", "alt": "Latte looking up at the camera", "w": 1086, "h": 1448},
+  {"src": "{{ '/images/latte/latte_napping.jpg' | relative_url }}", "alt": "Latte asleep on her back on a sofa", "w": 1086, "h": 1448},
+  {"src": "{{ '/images/latte/latte_in_arms.jpg' | relative_url }}", "alt": "Latte resting against someone's shoulder", "w": 1200, "h": 1600},
+  {"src": "{{ '/images/latte/latte_scratching.jpg' | relative_url }}", "alt": "Latte lying on the floor, scratching her ear", "w": 1200, "h": 1600},
+  {"src": "{{ '/images/latte/latte_on_the_table.jpg' | relative_url }}", "alt": "Latte on a table, leaning towards the camera", "w": 1200, "h": 1600},
+  {"src": "{{ '/images/latte/latte_in_lap.jpg' | relative_url }}", "alt": "Latte being held in someone's lap", "w": 900, "h": 1600}
+]
+</script>
+<div class="latte-gallery" id="latte-gallery" role="dialog" aria-modal="true" aria-label="Photos of Latte" hidden>
   <div class="latte-gallery__backdrop"></div>
   <button class="latte-gallery__close" type="button" aria-label="Close photo gallery">&times;</button>
   <div class="latte-gallery__viewer">
     <button class="latte-gallery__arrow latte-gallery__arrow--prev" type="button" aria-label="Previous photo">&#8249;</button>
     <figure class="latte-gallery__figure">
-      <img class="latte-gallery__image" src="{{ '/images/latte/latte_looking_up.png' | relative_url }}" alt="Latte looking up at the camera" width="1086" height="1448">
-      <figcaption class="latte-gallery__caption" aria-live="polite">Latte <span class="latte-gallery__count">1 / 2</span></figcaption>
+      <img class="latte-gallery__image" src="{{ '/images/latte/latte_looking_up.jpg' | relative_url }}" alt="Latte looking up at the camera" width="1086" height="1448" loading="lazy">
+      <figcaption class="latte-gallery__caption" aria-live="polite">Latte <span class="latte-gallery__count">1 / 6</span></figcaption>
     </figure>
     <button class="latte-gallery__arrow latte-gallery__arrow--next" type="button" aria-label="Next photo">&#8250;</button>
   </div>
