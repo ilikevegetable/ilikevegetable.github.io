@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am a third-year PhD student in Computer Science at Washington University in St. Louis. I'm fortunate to be advised by Prof. [**Yixin Chen**](https://www.cse.wustl.edu/~yixin.chen/) and to work closely with Prof. [**Muhan Zhang**](https://muhanzhang.github.io/) at Peking University. Previously, I received my master's degree from Zhejiang University, where I was advised by Prof. [**Yang Yang**](http://yangy.org/).
 
-> My research focuses on diffusion language models, structured data generation, and LLM reasoning, with a background in self-supervised learning. I am interested in LLM, Agentic AI, reinforcement learning, and self-improving AI systems, and am seeking **Spring or Summer 2027 Research Scientist Intern and Applied Scientist Intern** opportunities. [Find my CV here]({{ '/repos/CV_DonghongCai_1014.pdf' | relative_url }}).
+> My research focuses on diffusion language models, structured data generation, and LLM reasoning, with a background in self-supervised learning. I am interested in LLM, Agentic AI, reinforcement learning, and self-improving AI systems, and am seeking **Spring or Summer 2027 Research Scientist Intern and Applied Scientist Intern** opportunities. [Find my CV here]({{ '/repos/CV_DonghongCai_1019.pdf' | relative_url }}).
 
 # 🔥 News
 <div class='news-scroll' markdown="1">
